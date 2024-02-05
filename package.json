@@ -1,0 +1,28 @@
+{
+  "name": "flybuny",
+  "version": "1.0.0",
+  "description": "Ravens Slash Bot Altyapisi",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "wixua",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/builders": "^1.6.5",
+    "@discordjs/rest": "^1.1.0",
+    "better-sqlite3": "^9.0.0",
+    "croxydb": "^0.0.7",
+    "discord-api-types": "^0.37.5",
+    "discord-modals": "^1.3.9",
+    "discord.js": "^14.3.0",
+    "express": "^4.18.2",
+    "fera.db": "^1.0.5",
+    "justdata": "^1.4.0",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2",
+    "os": "^0.1.2",
+    "quick.db": "^9.1.7",
+    "quickchart-js": "^3.1.3"
+  }
+}
